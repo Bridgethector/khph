@@ -251,3 +251,6 @@
 
 
   http://api.soundcloud.com/tracks?genres=rock&client_id=YOUR_CLIENT_ID  - SoundCloudId
+  
+  1. http://stackoverflow.com/questions/35688367/access-soundcloud-charts-with-api -  Access Soundcloud Charts with API
+  
