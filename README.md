@@ -248,3 +248,6 @@
   }
 
 @end
+
+
+  http://api.soundcloud.com/tracks?genres=rock&client_id=YOUR_CLIENT_ID  - SoundCloudId
