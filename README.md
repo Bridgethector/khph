@@ -254,3 +254,30 @@
   
   1. http://stackoverflow.com/questions/35688367/access-soundcloud-charts-with-api -  Access Soundcloud Charts with API
   
+  
+  /// ------------------ Latest ---------------------------//
+  
+ 1. pretrained model convet into class we can use in our app - coreml(pretrained model into coeml)
+2. Make predictions
+3. previously we are using api's for speech and face recognisation now coreml will handle that, image recognisation
+4. check wwdc videos of coreml
+5.inceptionv3 model we can find which object it is ?
+6. Core ML is a framework that can be harnessed to integrate machine learning models into your app
+7. Another bonus feature about Core ML is that you can use pre-trained data models as long as you convert it into a Core ML model
+Note: You will need Xcode 9 beta to follow tutorial. You will also need a device that is running iOS 11 beta in order to test out some of the feature of this tutorial. While Xcode 9 beta supports both Swift 3.2 and 4.0, all the code is written in Swift 4.
+8. https://www.appcoda.com/coreml-introduction/ - coreml example
+
+Arkit 
+1. ARKit when iOS 11 drops later this year. This includes all iOS devices that are powered by Apple’s A9 or A10 chip. (ARKit runs on the Apple A9 and A10 processors)
+2. ARKit since the framework requires a lot of processing power 
+3.ARKit support to iOS, Apple has made it possible for millions of people worldwide to experience augmented reality without having to invest in any additional hardware. like 
+microsoft halolens
+4.  Developers will likely start releasing apps that take advantage of ARKit on the App Store later this year, and if early demos are anything to go by, they are going to be pretty impressive as well.
+5. with arkit we have to use scene kit - 3d ,sprite kit -2d,metal kit - 3d
+6. we can show the vitual content  for example objects like cats, planes, dogs are not there but we can show them in 3d or 2d with motion also and we can control that objects
+7. this arkit is really very useful for especially unity and unreal engine
+8.we can show like real things but not real
+9. https://www.youtube.com/watch?v=RsgbdiTJYDQ -  10 INSANE THINGS CREATED WITH APPLE AR KIT! iOS 11
+10. https://www.youtube.com/watch?v=Rf5ucN8fxYY - iOS 11: 10 More AR Demos! (Augmented Reality) 
+
+  
